@@ -1,0 +1,567 @@
+,Symbol,Synonym.Symbol,Scientific.Name.with.Author,Common.Name,Family,jenkins_model
+1,ABBA,,Abies balsamea (L.) Mill.,balsam fir,Pinaceae,fir/hemlock
+2,ACER,,Acer L.,maple,Aceraceae,soft maple/birch
+3,ACNE2,,Acer negundo L.,boxelder,Aceraceae,soft maple/birch
+4,ACPE,,Acer pensylvanicum L.,striped maple,Aceraceae,soft maple/birch
+5,ACBA2,,Acer barbatum Michx. p.p.,southern sugar maple,Aceraceae,soft maple/birch
+6,ACRU,,Acer rubrum L.,red maple,Aceraceae,soft maple/birch
+9,ACRUR,,Acer rubrum L. var. rubrum,red maple,Aceraceae,soft maple/birch
+10,ACRUR,ACRUT2,Acer rubrum L. var. tomentosum Tausch,,Aceraceae,soft maple/birch
+14,ACSA2,ACSA2,Acer saccharinum L.,silver maple,Aceraceae,soft maple/birch
+16,ACSA3,ACSAR,Acer saccharum Marshall,sugar maple,Aceraceae,hard maple/oak/hickory/beech
+17,ACSAS,,Acer saccharum ,sugar maple,Aceraceae,hard maple/oak/hickory/beech
+23,ACSP2,,Acer spicatum Lam.,mountain maple,Aceraceae,soft maple/birch
+26,AEFL,,Aesculus flava Aiton,yellow buckeye,Hippocastanaceae,mixed hardwood
+28,AEPA,,Aesculus pavia L.,red buckeye,Hippocastanaceae,mixed hardwood
+29,AIAL,TOAL4,Toxicodendron altissimum Mill.,,Simaroubaceae,mixed hardwood
+32,ALINR,ALRUA,Alnus rugosa (Du Roi) Spreng. var. americana (Regel) Fernald,,,
+33,ALINR,ALRU3,Alnus rugosa (Du Roi) Spreng.,,,
+34,ALINR,,Alnus incana (L.) Moench ssp. rugosa (Du Roi) R.T. Clausen,speckled alder,Betulaceae,mixed hardwood
+35,ALINR,ALINA,Alnus incana (L.) Moench var. americana Regel,,,
+36,AMAR3,,Amelanchier arborea (Michx. f.) Fernald,common serviceberry,Rosaceae,woodland
+37,AMELA,,Amelanchier Medik.,serviceberry,Rosaceae,woodland
+38,AMLA,AMLAN,Amelanchier laevis Wiegand var. nitida (Wiegand) Fernald,,,
+39,AMLA,,Amelanchier laevis Wiegand,Allegheny serviceberry,Rosaceae,woodland
+40,AMLA,AMGR6,Amelanchier ×grandiflora Rehder,,,
+41,AMLA,AMARC,Amelanchier arborea (Michx. f.) Fernald var. cordifolia (Ashe) B. Boivin,,,
+42,AMLA,AMARL,Amelanchier arborea (Michx. f.) Fernald ssp. laevis (Wiegand) S. McKay ex Landry,,,
+43,AMLA,AMARL2,Amelanchier arborea (Michx. f.) Fernald var. laevis (Wiegand) H.E. Ahles,,,
+44,AMSA,,Amelanchier sanguinea (Pursh) DC.,roundleaf serviceberry,Rosaceae,woodland
+45,ARSP2,,Aralia spinosa L.,devil's walkingstick,Araliaceae,mixed hardwood
+46,ASIN12,PIIN4,Pityothamnus incanus (W. Bartram) Small,,,
+47,ASIN12,,Asimina incana (W. Bartram) Exell,woolly pawpaw,Annonaceae,mixed hardwood
+48,ASIN12,ASSP13,Asimina speciosa Nash,,,
+49,ASTR,,Asimina triloba (L.) Dunal,pawpaw,Annonaceae,mixed hardwood
+50,ASTR,ORAR5,"Orchidocarpum arietinum Michx., nom. inval.",,,
+51,BEAL2,,Betula alleghaniensis Britton,yellow birch,Betulaceae,soft maple/birch
+52,BELE,,Betula lenta L.,sweet birch,Betulaceae,soft maple/birch
+53,BENI,,Betula nigra L.,river birch,Betulaceae,soft maple/birch
+54,BEPA,,Betula papyrifera Marshall,paper birch,Betulaceae,soft maple/birch
+55,BEPAC2,BECO3,Betula cordifolia Regel,,,
+56,BEPAC2,,Betula papyrifera Marshall var. cordifolia (Regel) Fernald,mountain paper birch,Betulaceae,soft maple/birch
+57,BEPAC2,BEALC2,Betula alba L. var. cordifolia (Regel) Regel,,,
+58,BEPAP,BEPAP2,Betula papyrifera Marshall var. pensilis Fernald,,,
+59,BEPAP,BEALC,Betula alba L. var. commutata Regel,,,
+60,BEPAP,BEPAE,Betula papyrifera Marshall var. elobata (Fernald) Sarg.,,,
+61,BEPAP,,Betula papyrifera Marshall var. papyrifera,paper birch,Betulaceae,soft maple/birch
+62,BEPAP,BEPAC,Betula papyrifera Marshall var. commutata (Regel) Fernald,,,
+63,BEPAP,BEPAM2,Betula papyrifera Marshall var. macrostachya Fernald,,,
+64,BEPE2,,Bellis perennis L.,lawndaisy,Asteraceae,
+65,BEPO,,Betula populifolia Marshall,gray birch,Betulaceae,soft maple/birch
+66,BESC,,Berchemia scandens (Hill) K. Koch,Alabama supplejack,Rhamnaceae,
+67,BETH,BETHA,Berberis thunbergii DC. var. atropurpurea Chenault,,,
+68,BETH,,Berberis thunbergii DC.,Japanese barberry,Berberidaceae,
+69,BETUL,,Betula L.,birch,Betulaceae,soft maple/birch
+70,BROV4,RAOV,Rajania ovata Walter,,,
+71,BROV4,,Brunnichia ovata (Walter) Shinners,American buckwheat vine,Polygonaceae,
+72,BROV4,BRCI3,Brunnichia cirrhosa Gaertn.,,,
+73,CAAM2,,Callicarpa americana L.,American beautyberry,Verbenaceae,woodland
+74,CAAM2,CAAML,Callicarpa americana L. var. lactea F.J. Müll.,,,
+75,CAAQ2,CAAQA3,Carya aquatica (Michx. f.) Nutt. var. australis Sarg.,,,
+76,CAAQ2,HIAQ,Hicoria aquatica (Michx. f.) Britton,,,
+77,CAAQ2,,Carya aquatica (Michx. f.) Nutt.,water hickory,Juglandaceae,hard maple/oak/hickory/beech
+78,CAAQ3,,Catabrosa aquatica (L.) P. Beauv.,water whorlgrass,Poaceae,
+79,CACA18,,Carpinus caroliniana Walter,American hornbeam,Betulaceae,mixed hardwood
+80,CACO15,,Carya cordiformis (Wangenh.) K. Koch,bitternut hickory,Juglandaceae,hard maple/oak/hickory/beech
+81,CACO15,HICO5,Hicoria cordiformis (Wangenh.) Britton,,,
+82,CACO15,CACOL3,Carya cordiformis (Wangenh.) K. Koch var. latifolia Sarg.,,,
+83,CADE12,CAAM29,Castanea americana (Michx.) Raf.,,,
+84,CADE12,,Castanea dentata (Marshall) Borkh.,American chestnut,Fagaceae,mixed hardwood
+85,CAFL22,,Calycanthus floridus L.,eastern sweetshrub,Calycanthaceae,woodland
+86,CAGL8,CAPO21,Carya porcina (F. Michx.) Nutt. ex Elliott,,,
+87,CAGL8,HIGL,Hicoria glabra (Mill.) Britton,,,
+88,CAGL8,HIAU3,Hicoria austrina Small,,,
+89,CAGL8,,Carya glabra (Mill.) Sweet,pignut hickory,Juglandaceae,hard maple/oak/hickory/beech
+90,CAGL8,HIGLH,Hicoria glabra (Mill.) Britton var. hirsuta Ashe,,,
+91,CAGL8,CAGLH,Carya glabra (Mill.) Sweet var. hirsuta (Ashe) Ashe,,,
+92,CAGL8,CAMA41,Carya magnifloridana Murrill,,,
+93,CAGL8,CAGLM,Carya glabra (Mill.) Sweet var. megacarpa (Sarg.) Sarg.,,,
+94,CAGL8,CAOVH,Carya ovalis (Wangenh.) Sarg. var. hirsuta (Ashe) Sarg.,,,
+95,CAGL8,CAMI33,Carya microcarpa (Nutt.) Britton,,,
+96,CAGL8,CAGLG2,Carya glabra (Mill.) Sweet var. glabra,,,
+97,CAGL8,CAOVH2,"Carya ×ovalis (Wangenh.) Sarg. var. hirsuta (Ashe) B. Boivin, nom. illeg.",,,
+98,CAGL8,CALE32,Carya leiodermis Sarg.,,,
+99,CAGL8,JUPO6,Juglans porcina F. Michx.,,,
+100,CAOD3,TROD,Trilisa odoratissima (J.F. Gmel.) Cass.,,,
+101,CAOD3,,Carphephorus odoratissimus (J.F. Gmel.) Herb.,vanillaleaf,Asteraceae,
+102,CAOV2,HIAL7,Hicoria alba Britton p.p.,,,
+103,CAOV2,,Carya ovata (Mill.) K. Koch,shagbark hickory,Juglandaceae,hard maple/oak/hickory/beech
+104,CAOV2,HIBO3,Hicoria borealis Ashe,,,
+105,CAOV2,HIOV2,Hicoria ovata (Mill.) Britton,,,
+106,CAOV2,CAOVP,Carya ovata (Mill.) K. Koch var. pubescens Sarg.,,,
+107,CAOV2,CAOVF,Carya ovata (Mill.) K. Koch var. fraxinifolia Sarg.,,,
+108,CAOV2,CAOVN,Carya ovata (Mill.) K. Koch var. nuttallii Sarg.,,,
+109,CAOV3,CAOVO2,Carya ovalis (Wangenh.) Sarg. var. odorata (Marshall) Sarg.,,,
+110,CAOV3,CAGLO,Carya glabra (Mill.) Sweet var. odorata (Marshall) Little,,,
+111,CAOV3,,Carya ovalis (Wangenh.) Sarg.,red hickory,Juglandaceae,hard maple/oak/hickory/beech
+112,CAOV3,CAOVO4,Carya ovalis (Wangenh.) Sarg. var. obovalis Sarg.,,,
+113,CAOV3,CAOVO,Carya ovalis (Wangenh.) Sarg. var. obcordata (Muhl. & Willd.) Sarg.,,,
+114,CAOV3,CAOVO3,"Carya ×ovalis (Wangenh.) Sarg. var. odorata (Marshall) B. Boivin, nom. illeg.",,,
+115,CAOV3,HIOV,Hicoria ovalis (Wangenh.) Ashe,,,
+116,CAOV3,CAOVM,Carya ovalis (Wangenh.) Sarg. var. mollis (Ashe) Sudw.,,,
+117,CAPA24,HIPA7,Hicoria pallida Ashe,,,
+118,CAPA24,,Carya pallida (Ashe) Engl. & Graebn.,sand hickory,Juglandaceae,hard maple/oak/hickory/beech
+119,CARA2,TERA,Tecoma radicans (L.) Juss.,,,
+120,CARA2,BIRA2,Bignonia radicans L.,,,
+121,CARA2,,Campsis radicans (L.) Seem. ex Bureau,trumpet creeper,Bignoniaceae,
+122,CARYA,,Carya Nutt.,hybrid hickory,Juglandaceae,hard maple/oak/hickory/beech
+123,CATO6,,Carya tomentosa (Lam.) Nutt.,mockernut hickory,Juglandaceae,hard maple/oak/hickory/beech
+124,CATO6,CATOS,Carya tomentosa (Lam.) Nutt. var. subcoriacea (Sarg.) Palmer & Steyerm.,,,
+125,CATO6,JUAL5,"Juglans alba L. p.p., nom. utique rej.",,,
+126,CATO6,CAAL27,"Carya alba (L.) Nutt., nom. utique rej.",,,
+127,CATO6,HITO,Hicoria tomentosa (Lam.) Raf.,,,
+128,CECA2,,Centaurea calcitrapa L.,red star-thistle,Asteraceae,
+129,CECA4,,Cercis canadensis L.,eastern redbud,Fabaceae,mixed hardwood
+130,CECAC,,Cercis canadensis L. var. canadensis,eastern redbud,Fabaceae,mixed hardwood
+131,CELA,CEMI9,Celtis mississippiensis Bosc,,,
+132,CELA,,Celtis laevigata Willd.,sugarberry,Ulmaceae,mixed hardwood
+133,CELTI,,Celtis L.,hackberry,Ulmaceae,mixed hardwood
+134,CEOC,CEOCC3,Celtis occidentalis L. var. crassifolia (Lam.) A. Gray,,,
+135,CEOC,,Celtis occidentalis L.,common hackberry,Ulmaceae,mixed hardwood
+136,CEOC,CECA9,Celtis canina Raf.,,,
+137,CEOC,CEOCC4,Celtis occidentalis L. var. cordata Willd.,,,
+138,CEOC,CEOCC,Celtis occidentalis L. var. canina (Raf.) Sarg.,,,
+139,CEOC,CEOCO2,Celtis occidentalis L. var. occidentalis,,,
+140,CEOC2,,Cephalanthus occidentalis L.,common buttonbush,Rubiaceae,
+141,CEOC2,CEOCP2,Cephalanthus occidentalis L. var. pubescens Raf.,,,
+142,CEOC2,CEOCC2,Cephalanthus occidentalis L. var. californicus Benth.,,,
+143,CEOR7,,Celastrus orbiculatus Thunb.,Oriental bittersweet,Celastraceae,
+144,CEOR7,CEOR,"Celastrus orbiculata Thunb., orth. var.",,,
+145,CEPHA,,Cephalanthus L.,buttonbush,Rubiaceae,
+146,CLAC3,,Clethra acuminata Michx.,mountain sweetpepperbush,Clethraceae,woodland
+147,CLETH,,Clethra L.,sweetpepperbush,Clethraceae,woodland
+148,COAM2,,Cornus amomum Mill.,silky dogwood,Cornaceae,woodland
+149,COAM2,SWAM,Swida amomum (Mill.) Small,,,
+150,COAM2,COAMA,Cornus amomum Mill. ssp. amomum,,,
+151,COCA,,Cocculus carolinus (L.) DC.,Carolina coralbead,Menispermaceae,
+152,COCA,EPCA5,Epibaterium carolinum (L.) Britton,,,
+153,COCO6,,Corylus cornuta Marshall,beaked hazelnut,Betulaceae,woodland
+154,COFL2,,Cornus florida L.,flowering dogwood,Cornaceae,mixed hardwood
+155,COFL2,CYFL7,Cynoxylon floridum (L.) Raf. ex B.D. Jacks.,,,
+156,COFL2,BEFL,Benthamidia florida (L.) Spach,,,
+157,COFO,COST13,Cornus stricta Lam.,,,
+158,COFO,,Cornus foemina Mill.,stiff dogwood,Cornaceae,mixed hardwood
+159,COFO,SWFO,Swida foemina (Mill.) Rydb.,,,
+160,COFO,SWST,Swida stricta (Lam.) Small,,,
+161,COPE80,COPEA,Comptonia peregrina (L.) J.M. Coult. var. aspleniifolia (L.) Fernald,,,
+162,COPE80,MYPE4,Myrica peregrina (L.) Kuntze,,,
+163,COPE80,,Comptonia peregrina (L.) J.M. Coult.,sweet fern,Myricaceae,
+164,COPE80,MYAST,Myrica aspleniifolia L. var. tomentosa (A. Chev) Gleason,,,
+165,COPE80,LIAS2,Liquidambar aspleniifolia (L.) L.,,,
+166,COPE80,LIPE8,Liquidambar peregrina L.,,,
+167,COPE80,MYAS,Myrica aspleniifolia L.,,,
+168,CORNU,,Cornus L.,dogwood,Cornaceae,mixed hardwood
+169,CRATA,,Crataegus L.,hawthorn,Rosaceae,woodland
+170,DIFR6,SELI7,Sebastiania ligustrina (Michx.) Müll. Arg.,,,
+171,DIFR6,,Ditrysinia fruticosa (W. Bartram) Govaerts & Frodin,Gulf Sebastian-bush,Euphorbiaceae,
+172,DIFR6,SEFR,Sebastiania fruticosa (W. Bartram) Fernald,,,
+173,DIPA9,DIDE2,Dirca decipiens Floden,,,
+174,DIPA9,DIME10,Dirca mexicana G.L. Nesom & Mayfield,,,
+175,DIPA9,,Dirca palustris L.,eastern leatherwood,Thymelaeaceae,
+176,DIVI,SYVI2,Syntherisma villosa Walter,,,
+177,DIVI,DIFIV,Digitaria filiformis (L.) Koeler var. villosa (Walter) Fernald,,,
+178,DIVI,,Digitaria villosa (Walter) Pers.,shaggy crabgrass,Poaceae,
+179,DIVI5,DIVIP2,Diospyros virginiana L. var. platycarpa Sarg.,,,
+180,DIVI5,,Diospyros virginiana L.,common persimmon,Ebenaceae,mixed hardwood
+181,DIVI5,DIVIM2,Diospyros virginiana L. var. mosieri (Small) Sarg.,,,
+182,DIVI5,DIVIP3,Diospyros virginiana L. var. pubescens (Pursh) Dippel,,,
+183,DIVI5,DIMO7,Diospyros mosieri Small,,,
+184,DIVI5,DIVIV4,Diospyros virginiana L. var. virginiana,,,
+185,ELUM,,Elaeagnus umbellata Thunb.,autumn olive,Elaeagnaceae,woodland
+186,FAGR,FAAM,Fagus americana Sweet,,,
+187,FAGR,FAFE,Fagus ferruginea Aiton,,,
+188,FAGR,FAGRC,Fagus grandifolia Ehrh. var. caroliniana (Loudon) Fernald & Rehder,,,
+189,FAGR,,Fagus grandifolia Ehrh.,American beech,Fagaceae,hard maple/oak/hickory/beech
+190,FAGR,FAGRH,Fagus grandifolia Ehrh. ssp. heterophylla Camp,,,
+191,FRAM2,FRAMJ,Fraxinus americana L. var. juglandifolia (Lam.) Rehder,,,
+192,FRAM2,FRAMM,Fraxinus americana L. var. microcarpa A. Gray,,,
+193,FRAM2,FRBI2,Fraxinus biltmoreana Beadle,,,
+194,FRAM2,FRAMC,Fraxinus americana L. var. crassifolia Sarg.,,,
+195,FRAM2,FRAMB,Fraxinus americana L. var. biltmoreana (Beadle) J. Wright ex Fernald,,,
+196,FRAM2,,Fraxinus americana L.,white ash,Oleaceae,mixed hardwood
+197,FRAM2,FRAMC2,Fraxinus americana L. var. curtissii (Vasey) Small,,,
+198,FRAXI,,Fraxinus L.,ash,Oleaceae,mixed hardwood
+199,FRCA13,,Frangula caroliniana (Walter) A. Gray,Carolina buckthorn,Rhamnaceae,mixed hardwood
+200,FRCA13,RHCA2,Rhamnus caroliniana Walter,,,
+201,FRCA13,RHCAM,Rhamnus caroliniana Walter var. mollis Fernald,,,
+202,FRNI,,Fraxinus nigra Marshall,black ash,Oleaceae,mixed hardwood
+203,FRPE,FRPES,Fraxinus pennsylvanica Marshall var. subintegerrima (Vahl) Fernald,,,
+204,FRPE,FRSM,Fraxinus smallii Britton,,,
+205,FRPE,FRLA3,Fraxinus lanceolata Borkh.,,,
+206,FRPE,,Fraxinus pennsylvanica Marshall,green ash,Oleaceae,mixed hardwood
+207,FRPE,FRPEL,Fraxinus pennsylvanica Marshall var. lanceolata (Borkh.) Sarg.,,,
+208,FRPE,FRPEI,Fraxinus pennsylvanica Marshall var. integerrima (Vahl) Fernald,,,
+209,FRPE,FRDA,Fraxinus darlingtonii Britton,,,
+210,FRPE,FRPEA,Fraxinus pennsylvanica Marshall var. austinii Fernald,,,
+211,FRPE,FRCA8,Fraxinus campestris Britton,,,
+212,GAUR,,Gaylussacia ursina (M.A. Curtis) Torr. & A. Gray ex A. Gray,bear huckleberry,Ericaceae,woodland
+213,GAUR,DEUR,Decachaena ursina (M.A. Curtis) Small,,,
+214,HADI3,,Halesia diptera Ellis,two-wing silverbell,Styracaceae,mixed hardwood
+215,HADI3,HADIM2,Halesia diptera Ellis var. magniflora Godfrey,,,
+216,HATE3,,Halesia tetraptera Ellis,mountain silverbell,Styracaceae,mixed hardwood
+217,HAVI2,,Hackelia virginiana (L.) I.M. Johnst.,beggarslice,Boraginaceae,
+218,HAVI2,MYVI,Myosotis virginiana L.,,,
+219,HAVI2,LAVI7,Lappula virginiana (L.) Greene,,,
+220,HAVI4,HAMA6,Hamamelis macrophylla Pursh,,,
+221,HAVI4,,Hamamelis virginiana L.,American witchhazel,Hamamelidaceae,
+222,HAVI4,HAVIM,Hamamelis virginiana L. var. macrophylla (Pursh) Nutt.,,,
+223,HAVI4,HAVIP,Hamamelis virginiana L. var. parvifolia Nutt.,,,
+224,HAVI4,HAVIH,Hamamelis virginiana L. var. henryae Jenne ex C. Lane,,,
+225,ILDE,ILCU2,Ilex curtissii (Fernald) Small,,,
+226,ILDE,,Ilex decidua Walter,possumhaw,Aquifoliaceae,
+227,ILDE,ILDEC,Ilex decidua Walter var. curtissii Fernald,,,
+228,ILEX,,Ilex L.,holly,Aquifoliaceae,pine
+229,ILMO,,Ilex montana Torr. & A. Gray ex A. Gray,mountain holly,Aquifoliaceae,pine
+230,ILMO,ILMO3,Ilex monticola A. Gray,,,
+231,ILMO,ILAMM,Ilex ambigua (Michx.) Torr. var. montana (Torr. & A. Gray ex A. Gray) H.E. Ahles,,,
+232,ILMO,ILAMM2,Ilex amelanchier M.A. Curtis ex Chapm. var. monticola (A. Gray) Alph. Wood,,,
+233,ILMO,ILAMM3,Ilex ambigua (Michx.) Torr. var. monticola (A. Gray) Wunderlin & Poppleton,,,
+234,ILMU,NEMU2,Nemopanthus mucronatus (L.) Loes.,,,
+235,ILMU,,"Ilex mucronata (L.) Powell, Savolainen & Andrews",catberry,Aquifoliaceae,pine
+236,ILMU,VAMU2,Vaccinium mucronatum L.,,,
+237,ILOP,,Ilex opaca Aiton,American holly,Aquifoliaceae,pine
+238,ILVE,ILVEP,Ilex verticillata (L.) A. Gray var. padifolia (Willd.) Torr. & A. Gray ex S. Watson,,,
+239,ILVE,ILFA,Ilex fastigiata E.P. Bicknell,,,
+240,ILVE,ILBR,Ilex bronxensis Britton,,,
+241,ILVE,ILVEF,Ilex verticillata (L.) A. Gray var. fastigiata (E.P. Bicknell) Fernald,,,
+242,ILVE,ILVEC,Ilex verticillata (L.) A. Gray var. cyclophylla B.L. Rob.,,,
+243,ILVE,ILVET,Ilex verticillata (L.) A. Gray var. tenuifolia (Torr.) S. Watson,,,
+244,ILVE,,Ilex verticillata (L.) A. Gray,common winterberry,Aquifoliaceae,pine
+245,ILVO,,Ilex vomitoria Aiton,yaupon,Aquifoliaceae,pine
+246,ITVI,,Itea virginica L.,Virginia sweetspire,Grossulariaceae,
+247,JUCI,WACI,Wallia cinerea (L.) Alef.,,,
+248,JUCI,,Juglans cinerea L.,butternut,Juglandaceae,mixed hardwood
+249,JUNI,,Juglans nigra L.,black walnut,Juglandaceae,mixed hardwood
+250,JUNI,WANI,Wallia nigra (L.) Alef.,,,
+251,JUVI,,Juniperus virginiana L.,eastern redcedar,Cupressaceae,cedar/larch
+252,KALA,KALAL,Kalmia latifolia L. var. laevipes Fernald,,,
+253,KALA,,Kalmia latifolia L.,mountain laurel,Ericaceae,woodland
+254,KALMI,,Kalmia L.,laurel,Ericaceae,woodland
+255,LAGR,,Lactuca graminifolia Michx.,grassleaf lettuce,Asteraceae,
+256,LALA,,Larix laricina (Du Roi) K. Koch,tamarack,Pinaceae,pine
+257,LALA,LAAL6,Larix alaskensis W. Wight,,,
+258,LALA,LALAA5,Larix laricina (Du Roi) K. Koch var. alaskensis (W. Wight) Raup,,,
+259,LALA,LALAA9,Larix laricina (Du Roi) K. Koch ssp. alaskensis (W. Wight) Silba,,,
+260,LEGR,LEPAG,Ledum palustre L. ssp. groenlandicum (Oeder) Hultén,,,
+261,LEGR,LEPAL,Ledum palustre L. var. latifolium (Jacq.) Michx.,,,
+262,LEGR,RHGR3,Rhododendron groenlandicum (Oeder) K.A. Kron & W.S. Judd,,,
+263,LEGR,,Ledum groenlandicum Oeder,bog Labrador tea,Ericaceae,
+264,LIBE3,,Lindera benzoin (L.) Blume,northern spicebush,Lauraceae,woodland
+265,LIJA,,Ligustrum japonicum Thunb.,Japanese privet,Oleaceae,
+266,LIST2,,Liquidambar styraciflua L.,sweetgum,Hamamelidaceae,mixed hardwood
+267,LITU,,Liriodendron tulipifera L.,tuliptree,Magnoliaceae,mixed hardwood
+268,LOJA,NIJA,Nintooa japonica (Thunb.) Sweet,,,
+269,LOJA,LOJAC,Lonicera japonica Thunb. var. chinensis (P.W. Watson) Baker,,,
+270,LOJA,,Lonicera japonica Thunb.,Japanese honeysuckle,Caprifoliaceae,
+271,LOJA,LOJAA2,Lonicera japonica Thunb. var. aureo-reticulata (T. Moore) G. Nicholson,,,
+272,LOMA6,,Lonicera maackii (Rupr.) Herder,Amur honeysuckle,Caprifoliaceae,
+273,MAAC,TUAC2,Tulipastrum acuminatum (L.) Small,,,
+274,MAAC,MAACC2,Magnolia acuminata (L.) L. var. cordata (Michx.) Ser.,,,
+275,MAAC,MAACO,Magnolia acuminata (L.) L. var. ozarkensis Ashe,,,
+276,MAAC,MAACS,Magnolia acuminata (L.) L. var. subcordata (Spach) Dandy,,,
+277,MAAC,TUCO2,Tulipastrum cordatum (Michx.) Small,,,
+278,MAAC,,Magnolia acuminata (L.) L.,cucumber tree,Magnoliaceae,mixed hardwood
+279,MAAC,MACO23,Magnolia cordata Michx.,,,
+280,MAFR,,Magnolia fraseri Walter,mountain magnolia,Magnoliaceae,mixed hardwood
+281,MAGNO,,Magnolia L.,magnolia,Magnoliaceae,mixed hardwood
+282,MALUS,,Malus Mill.,apple,Rosaceae,mixed hardwood
+283,MAMA2,,Magnolia macrophylla Michx.,bigleaf magnolia,Magnoliaceae,mixed hardwood
+284,MATR,MAUM,Magnolia umbrella Desr.,,,
+285,MATR,MAVIT2,Magnolia virginiana L. var. tripetala L.,,,
+286,MATR,MAUMT,Magnolia umbrella Desr. var. tripetala (L.) P. Parm.,,,
+287,MATR,,Magnolia tripetala (L.) L.,umbrella-tree,Magnoliaceae,mixed hardwood
+288,MAVI2,MAVIP,Magnolia virginiana L. var. parva Ashe,,,
+289,MAVI2,,Magnolia virginiana L.,sweetbay,Magnoliaceae,mixed hardwood
+290,MAVI2,MAVIA2,Magnolia virginiana L. var. australis Sarg.,,,
+291,MEAZ,,Melia azedarach L.,Chinaberrytree,Meliaceae,mixed hardwood
+292,MEAZ,MEAZU,Melia azedarach L. var. umbraculifera Knox,,,
+293,MORU2,,Morus rubra L.,red mulberry,Moraceae,mixed hardwood
+294,MORU2,MORUM,Morus rubra L. var. murrayana (Saar & Galla) Saar,,,
+295,MORU2,MOMU2,Morus murrayana Saar & Galla,,,
+296,NYAQ2,NYUN,Nyssa uniflora Wangenh.,,,
+297,NYAQ2,,Nyssa aquatica L.,water tupelo,Cornaceae,mixed hardwood
+298,NYSY,NYSYT,Nyssa sylvatica Marshall var. typica Fernald,,,
+299,NYSY,NYSYC,Nyssa sylvatica Marshall var. caroliniana (Poir.) Fernald,,,
+300,NYSY,,Nyssa sylvatica Marshall,blackgum,Cornaceae,mixed hardwood
+301,NYSY,NYSYD,Nyssa sylvatica Marshall var. dilatata Fernald,,,
+302,OSVI,OSVIV,Ostrya virginiana (Mill.) K. Koch var. virginiana,,,
+303,OSVI,,Ostrya virginiana (Mill.) K. Koch,hophornbeam,Betulaceae,mixed hardwood
+304,OSVI,OSVIL,Ostrya virginiana (Mill.) K. Koch var. lasia Fernald,,,
+305,OXAR,,Oxydendrum arboreum (L.) DC.,sourwood,Ericaceae,mixed hardwood
+306,PAQU2,HEQU3,Hedera quinquefolia L.,,,
+307,PAQU2,PAQUM,Parthenocissus quinquefolia (L.) Planch. var. murorum (Focke) Rehder,,,
+308,PAQU2,PSQUM,Psedera quinquefolia (L.) Greene var. murorum (Focke) Rehder,,,
+309,PAQU2,AMLA7,Ampelopsis latifolia Tausch,,,
+310,PAQU2,VIQU2,Vitis quinquefolia (L.) Lam.,,,
+311,PAQU2,PSQU,Psedera quinquefolia (L.) Greene,,,
+312,PAQU2,PAQUH,Parthenocissus quinquefolia (L.) Planch. var. hirsuta (Pursh) Planch.,,,
+313,PAQU2,AMHEM,Ampelopsis hederacea (Ehrh.) DC. var. murorum Focke,,,
+314,PAQU2,,Parthenocissus quinquefolia (L.) Planch.,Virginia creeper,Vitaceae,
+315,PAQU2,PAHI9,Parthenocissus hirsuta (Pursh) Graebn.,,,
+316,PAQU2,VIIN8,Vitis inserta Kern.,,,
+317,PAQU2,PAIN10,Parthenocissus inserta (Kern.) Fritsch,,,
+318,PAQU2,PAQUS,Parthenocissus quinquefolia (L.) Planch. var. saintpaulii (Koehne ex Graebn.) Rehder,,,
+319,PAQU2,AMQU3,Ampelopsis quinquefolia (L.) Michx.,,,
+320,PATO2,,Paulownia tomentosa (Thunb.) Siebold & Zucc. ex Steud.,princesstree,Scrophulariaceae,mixed hardwood
+321,PATO2,PAIM7,Paulownia imperialis Siebold & Zucc.,,,
+322,PHHI2,PHHII,Philadelphus hirsutus Nutt. var. intermedius Hu,,,
+323,PHHI2,PHHIN,Philadelphus hirsutus Nutt. var. nanus Hu,,,
+324,PHHI2,,Philadelphus hirsutus Nutt.,streambank mock orange,Hydrangeaceae,
+325,PIAB,,Picea abies (L.) Karst.,Norway spruce,Pinaceae,spruce
+326,PIAB,PIEX2,Picea excelsa (Lam.) Link,,,
+327,PIEC2,,Pinus echinata Mill.,shortleaf pine,Pinaceae,pine
+328,PIGL,,Picea glauca (Moench) Voss,white spruce,Pinaceae,spruce
+329,PIGL,PICA10,"Picea canadensis (Mill.) Britton, Sterns & Poggenb.",,,
+330,PIGL2,,Pinus glabra Walter,spruce pine,Pinaceae,pine
+331,PIMA,,"Picea mariana (Mill.) Britton, Sterns & Poggenb.",black spruce,Pinaceae,spruce
+332,PIMA,PIMAM4,"Picea mariana (Mill.) Britton, Sterns & Poggenb. var. mariana",,,
+333,PINUS,,Pinus L.,pine,Pinaceae,pine
+334,PIPA2,,Pinus palustris Mill.,longleaf pine,Pinaceae,pine
+335,PIPA2,PIAU3,Pinus australis Michx. f.,,,
+336,PIPU5,,Pinus pungens Lamb.,Table Mountain pine,Pinaceae,pine
+337,PIRE,,Pinus resinosa Aiton,red pine,Pinaceae,pine
+338,PIRI,,Pinus rigida Mill.,pitch pine,Pinaceae,pine
+339,PIRU,PIAU2,Picea australis Small,,,
+340,PIRU,,Picea rubens Sarg.,red spruce,Pinaceae,spruce
+341,PIST,STST6,"Strobus strobus (L.) Small, nom. inval.",,,
+342,PIST,,Pinus strobus L.,eastern white pine,Pinaceae,pine
+343,PITA,,Pinus taeda L.,loblolly pine,Pinaceae,pine
+344,PIVI2,,Pinus virginiana Mill.,Virginia pine,Pinaceae,pine
+345,PLOC,PLOCG,Platanus occidentalis L. var. glabrata (Fernald) Sarg.,,,
+346,PLOC,,Platanus occidentalis L.,American sycamore,Platanaceae,mixed hardwood
+347,POGR4,POGRM4,Populus grandidentata Michx. var. meridionalis Tidestr.,,,
+348,POGR4,POGRS,Populus grandidentata Michx. var. subcordata Vict.,,,
+349,POGR4,,Populus grandidentata Michx.,bigtooth aspen,Salicaceae,mixed hardwood
+350,POGR4,POGRA2,Populus grandidentata Michx. var. angustata Vict.,,,
+351,POTR4,,Poncirus trifoliata (L.) Raf.,hardy orange,Rutaceae,mixed hardwood
+352,POTR4,CITR5,Citrus trifoliata L.,,,
+353,POTR5,POTRT,Populus tremula L. ssp. tremuloides (Michx.) Á. Löve & D. Löve,,,
+354,POTR5,POTRI2,Populus tremuloides Michx. var. intermedia Vict.,,,
+355,POTR5,POAU8,Populus aurea Tidestr.,,,
+356,POTR5,POVA11,Populus vancouveriana Trel.,,,
+357,POTR5,POTRV,Populus tremuloides Michx. var. vancouveriana (Trel.) Sarg.,,,
+358,POTR5,POTRC2,Populus tremuloides Michx. var. cercidiphylla (Britton) Sudw.,,,
+359,POTR5,POTRA,Populus tremuloides Michx. var. aurea (Tidestr.) Daniels,,,
+360,POTR5,,Populus tremuloides Michx.,quaking aspen,Salicaceae,mixed hardwood
+361,POTR5,POPO12,Populus ×polygonifolia Bernard,,,
+362,POTR5,POTRR,Populus tremuloides Michx. var. rhomboidea Vict.,,,
+363,POTR5,POTRM,Populus tremuloides Michx. var. magnifica Vict.,,,
+364,POTR5,POCE6,Populus cercidiphylla Britton,,,
+365,PRAV,CEAV,Cerasus avium (L.) Moench,,,
+366,PRAV,,Prunus avium (L.) L.,sweet cherry,Rosaceae,mixed hardwood
+367,PRSE,,Prenanthes serpentaria Pursh,cankerweed,Asteraceae,
+368,PRSE,NAIN4,Nabalus integrifolius Cass.,,,
+369,PRSE,PRIN7,Prenanthes integrifolia (Cass.) Small,,,
+370,PRSE,NASE3,Nabalus serpentarius (Pursh) Hook.,,,
+371,PRSE2,,Prunus serotina Ehrh.,black cherry,Rosaceae,mixed hardwood
+372,PRUNU,,Prunus L.,plum,Rosaceae,mixed hardwood
+373,PRVI,,Prunus virginiana L.,chokecherry,Rosaceae,mixed hardwood
+374,PYPU,,Pyrularia pubera Michx.,buffalo nut,Santalaceae,
+375,QUAL,QUALS2,Quercus alba L. var. subflavea A.L. Pickens & M.C. Pickens,,,
+376,QUAL,QUALS,Quercus alba L. var. subcaerulea A.L. Pickens & M.C. Pickens,,,
+377,QUAL,,Quercus alba L.,white oak,Fagaceae,hard maple/oak/hickory/beech
+378,QUBI,,Quercus bicolor Willd.,swamp white oak,Fagaceae,hard maple/oak/hickory/beech
+379,QUCO2,,Quercus coccinea Münchh.,scarlet oak,Fagaceae,hard maple/oak/hickory/beech
+380,QUERC,,Quercus L.,oak,Fagaceae,hard maple/oak/hickory/beech
+381,QUFA,QUFAT,Quercus falcata Michx. var. triloba (Michx.) Nutt.,,,
+382,QUFA,QUTR3,Quercus triloba Michx.,,,
+383,QUFA,,Quercus falcata Michx.,southern red oak,Fagaceae,hard maple/oak/hickory/beech
+384,QUGE2,,Quercus geminata Small,sand live oak,Fagaceae,hard maple/oak/hickory/beech
+385,QUGE2,QUVIG,Quercus virginiana Mill. var. geminata (Small) Sarg.,,,
+386,QUGE2,QUVIM3,Quercus virginiana Mill. var. maritima (Michx.) Sarg.,,,
+387,QUHE2,,Quercus hemisphaerica W. Bartram ex Willd.,Darlington oak,Fagaceae,hard maple/oak/hickory/beech
+388,QULA2,QUCA10,Quercus catesbaei Michx.,,,
+389,QULA2,,Quercus laevis Walter,turkey oak,Fagaceae,hard maple/oak/hickory/beech
+390,QULA3,QUPHL,Quercus phellos L. var. laurifolia (Michx.) Chapm.,,,
+391,QULA3,QUSU10,Quercus succulenta Small,,,
+392,QULA3,QUHE4,Quercus hemisphaerica auct. non W. Bartram ex Willd.,,,
+393,QULA3,,Quercus laurifolia Michx.,laurel oak,Fagaceae,hard maple/oak/hickory/beech
+394,QULA3,QUOB2,Quercus obtusa (Willd.) Ashe,,,
+395,QULY,,Quercus lyrata Walter,overcup oak,Fagaceae,hard maple/oak/hickory/beech
+396,QUMA3,,Quercus marilandica Münchh.,blackjack oak,Fagaceae,hard maple/oak/hickory/beech
+397,QUMI,QUPR4,"Quercus prinus L. p.p., nom. utique rej.",,,
+398,QUMI,QUHO3,Quercus houstoniana C.H. Mull.,,,
+399,QUMI,,Quercus michauxii Nutt.,swamp chestnut oak,Fagaceae,hard maple/oak/hickory/beech
+400,QUMO4,,Quercus montana Willd.,chestnut oak,Fagaceae,hard maple/oak/hickory/beech
+401,QUMO4,QUPR2,"Quercus prinus L. p.p., nom. utique rej.",,,
+402,QUNE,,Quercus ×neopalmeri Sudw. ex Palmer,hybrid oak,Fagaceae,hard maple/oak/hickory/beech
+403,QUNI,,Quercus nigra L.,water oak,Fagaceae,hard maple/oak/hickory/beech
+404,QUNI,QUMI3,Quercus microcarya Small,,,
+405,QUNI,QUNIH,Quercus nigra L. var. heterophylla (Aiton) Ashe,,,
+406,QUPA,,Quercus ×palaeolithicola Trel.,hybrid oak,Fagaceae,hard maple/oak/hickory/beech
+407,QUPA5,,Quercus pagoda Raf.,cherrybark oak,Fagaceae,hard maple/oak/hickory/beech
+408,QUPA5,QUPA11,Quercus pagodifolia (Elliott) Ashe,,,
+409,QUPA5,QUFAP,Quercus falcata Michx. var. pagodifolia Elliott,,,
+410,QUPA5,QUFAL,Quercus falcata Michx. var. leucophylla (Ashe) Palmer & Steyerm.,,,
+411,QUPH,,Quercus phellos L.,willow oak,Fagaceae,hard maple/oak/hickory/beech
+412,QURU,,Quercus rubra L.,northern red oak,Fagaceae,hard maple/oak/hickory/beech
+413,QURUR,,Quercus rubra L. var. rubra,northern red oak,Fagaceae,hard maple/oak/hickory/beech
+414,QURUR,QUBOM,Quercus borealis Michx. f. var. maxima (Marshall) Ashe,,,
+415,QURUR,QUMA8,Quercus maxima (Marshall) Ashe,,,
+416,QUST,QUSTA2,Quercus stellata Wangenh. var. attenuata Sarg.,,,
+417,QUST,QUSTP2,Quercus stellata Wangenh. var. parviloba Sarg.,,,
+418,QUST,,Quercus stellata Wangenh.,post oak,Fagaceae,hard maple/oak/hickory/beech
+419,QUVE,QUVEM,Quercus velutina Lam. var. missouriensis Sarg.,,,
+420,QUVE,,Quercus velutina Lam.,black oak,Fagaceae,hard maple/oak/hickory/beech
+421,RHCO,RHCO17,"Rhus copallina L., orth. var.",,,
+422,RHCO,,Rhus copallinum L.,winged sumac,Anacardiaceae,
+423,RHMA4,RHAS2,Rhododendron ashleyi Coker,,,
+424,RHMA4,,Rhododendron maximum L.,great laurel,Ericaceae,woodland
+425,RHPR,RHRO4,Rhododendron roseum (Loisel.) Rehder,,,
+426,RHPR,RHNUR,Rhododendron nudiflorum (L.) Torr. var. roseum (Loisel.) Wiegand,,,
+427,RHPR,,Rhododendron prinophyllum (Small) Millais,early azalea,Ericaceae,
+428,RHPR,AZPR3,Azalea prinophylla Small,,,
+429,RHUS,,Rhus L.,sumac,Anacardiaceae,
+430,ROMU,ROMUW,Rosa multiflora Thunb. f. watsoniana (Crép.) Matsum.,,,
+431,ROMU,ROCA9,Rosa cathayensis (Rehder & Wilson) L.H. Bailey,,,
+432,ROMU,ROWA4,Rosa watsoniana Crép.,,,
+433,ROMU,,Rosa multiflora Thunb.,multiflora rose,Rosaceae,
+434,ROPS,,Robinia pseudoacacia L.,black locust,Fabaceae,mixed hardwood
+435,ROPS,ROPSR,Robinia pseudoacacia L. var. rectissima (L.) Raber,,,
+436,ROPS,ROPSP,Robinia pseudoacacia L. var. pyramidalis Pepin,,,
+437,ROPS,ROPSI2,Robinia pseudoacacia L. f. inermis (Mirb.) Rehder,,,
+438,RUBUS,,Rubus L.,blackberry,Rosaceae,
+439,RUPH,,Rubus phoenicolasius Maxim.,wine raspberry,Rosaceae,
+440,SAAL5,,Sassafras albidum (Nutt.) Nees,sassafras,Lauraceae,mixed hardwood
+441,SAAL5,LASA6,Laurus sassafras L.,,,
+442,SAAL5,SAVA7,Sassafras variifolium (Salisb.) Kuntze,,,
+443,SAAL5,SAOF5,Sassafras officinale Nees & Eberm.,,,
+444,SAAL5,SASA17,"Sassafras sassafras (L.) Karst., nom. inval.",,,
+445,SAAL5,LAAL5,Laurus albidus Nutt.,,,
+446,SAAL5,SAALM2,Sassafras albidum (Nutt.) Nees var. molle (Raf.) Fernald,,,
+447,SABAL,,Sabal Adans.,palmetto,Arecaceae,
+448,SAET,SAMI14,Sabal miamiensis Zona,,,
+449,SAET,,Sabal etonia Swingle ex Nash,scrub palmetto,Arecaceae,
+450,SALIX,,Salix L.,willow,Salicaceae,mixed hardwood
+451,SAMI8,SALO14,Sabal louisiana (Darby) Bomhard,,,
+452,SAMI8,SAGL13,"Sabal glabra Sarg., non Mill.",,,
+453,SAMI8,SADE9,Sabal deeringiana Small,,,
+454,SAMI8,COMI9,Corypha minor Jacq.,,,
+455,SAMI8,,Sabal minor (Jacq.) Pers.,dwarf palmetto,Arecaceae,?
+456,SAMI8,SAAD3,Sabal adansonii Guersent,,,
+457,SANI4,,Sambucus nigra L.,black elderberry,Caprifoliaceae,mixed hardwood
+458,SECA4,AFCA,Afzelia cassioides J.F. Gmel.,,,
+459,SECA4,,Seymeria cassioides (J.F. Gmel.) S.F. Blake,yaupon blacksenna,Scrophulariaceae,
+460,SERE2,BRSE3,Brahea serrulata (Michx.) H. Wendl.,,,
+461,SERE2,SESE10,Serenoa serrulata (Michx.) G. Nicholson,,,
+462,SERE2,,Serenoa repens (W. Bartram) Small,saw palmetto,Arecaceae,?
+463,SERE2,CORE8,Corypha repens W. Bartram,,,
+464,SMILA2,,Smilax L.,greenbrier,Smilacaceae,
+465,SMLA,,Smilax laurifolia L.,laurel greenbrier,Smilacaceae,
+466,SOAM3,PYAM2,Pyrus americana (Marshall) DC.,,,
+467,SOAM3,PYMI4,Pyrus microcarpa (Pursh) Spreng.,,,
+468,SOAM3,,Sorbus americana Marshall,American mountain ash,Rosaceae,mixed hardwood
+469,SYOR,,Symphoricarpos orbiculatus Moench,coralberry,Caprifoliaceae,
+470,SYOR,SYSY,"Symphoricarpos symphoricarpos (L.) MacMill., nom. inval.",,,
+471,SYTI,SYTIA,Symplocos tinctoria (L.) L'Hér. var. ashei Harbison,,,
+472,SYTI,,Symplocos tinctoria (L.) L'Hér.,common sweetleaf,Symplocaceae,
+473,SYTI,SYTIP,Symplocos tinctoria (L.) L'Hér. var. pygmaea Fernald,,,
+474,TADI2,TADIN,Taxodium distichum (L.) Rich. var. nutans (Aiton) Sweet,,,
+475,TADI2,,Taxodium distichum (L.) Rich.,bald cypress,Cupressaceae,cedar/larch
+476,THOC2,THOCF,Thuja occidentalis L. var. fastigiata H. Jaeger,,,
+477,THOC2,THOCP3,Thuja occidentalis L. var. pyramidalis Zederb.,,,
+478,THOC2,THOCM3,Thuja occidentalis L. f. malonyana C.K. Schneid.,,,
+479,THOC2,THOCN,Thuja occidentalis L. var. nigra L.H. Bailey,,,
+480,THOC2,,Thuja occidentalis L.,arborvitae,Cupressaceae,
+481,TIAM,,Tilia americana L.,American basswood,Tiliaceae,mixed hardwood
+482,TORA2,,Toxicodendron radicans (L.) Kuntze,eastern poison ivy,Anacardiaceae,
+483,TOVE,RHVE2,Rhus vernix L.,,,
+484,TOVE,,Toxicodendron vernix (L.) Kuntze,poison sumac,Anacardiaceae,
+485,TSCA,,Tsuga canadensis (L.) Carrière,eastern hemlock,Pinaceae,fir/hemlock
+486,ULAL,,Ulmus alata Michx.,winged elm,Ulmaceae,mixed hardwood
+487,ULAM,,Ulmus americana L.,American elm,Ulmaceae,mixed hardwood
+488,ULAM,ULAMF2,Ulmus americana L. var. floridana (Chapm.) Little,,,
+489,ULAM,ULFL,Ulmus floridana Chapm.,,,
+490,ULMUS,,Ulmus L.,elm,Ulmaceae,mixed hardwood
+491,ULRU,,Ulmus rubra Muhl.,slippery elm,Ulmaceae,mixed hardwood
+492,ULRU,ULFU,Ulmus fulva Michx.,,,
+493,VAAR,BAAN5,Batodendron andrachniforme Small,,,
+494,VAAR,VAARG2,Vaccinium arboreum Marshall var. glaucescens (Greene) Sarg.,,,
+495,VAAR,BAAR2,Batodendron arboreum (Marshall) Nutt.,,,
+496,VAAR,,Vaccinium arboreum Marshall,farkleberry,Ericaceae,woodland
+497,VACCI,,Vaccinium L.,blueberry,Ericaceae,woodland
+498,VACO,VACOG,Vaccinium corymbosum L. var. glabrum A. Gray,,,
+499,VACO,CYCU5,Cyanococcus cuthbertii Small,,,
+500,VACO,,Vaccinium corymbosum L.,highbush blueberry,Ericaceae,woodland
+501,VACO,VACO3,Vaccinium constablaei A. Gray,,,
+502,VACO,VACOA2,Vaccinium corymbosum L. var. albiflorum (Hook.) Fernald,,,
+503,VACO,CYCO15,Cyanococcus corymbosus (L.) Rydb.,,,
+504,VAMY,CYCA16,Cyanococcus canadensis (Kalm ex A. Rich.) Rydb.,,,
+505,VAMY,VAANM,Vaccinium angustifolium Aiton var. myrtilloides (Michx.) House,,,
+506,VAMY,,Vaccinium myrtilloides Michx.,velvetleaf huckleberry,Ericaceae,
+507,VAMY,VACA9,Vaccinium canadense Kalm ex A. Rich.,,,
+508,VAPA4,VACOP,Vaccinium corymbosum L. var. pallidum (Aiton) A. Gray,,,
+509,VAPA4,VAVA,Vaccinium vacillans Kalm ex Torr.,,,
+510,VAPA4,VAVAC,Vaccinium vacillans Kalm ex Torr. var. crinitum Fernald,,,
+511,VAPA4,CYTA,Cyanococcus tallapusae Coville ex Small,,,
+512,VAPA4,VAAL2,Vaccinium altomontanum Ashe,,,
+513,VAPA4,,Vaccinium pallidum Aiton,Blue Ridge blueberry,Ericaceae,
+514,VAPA4,CYSU10,Cyanococcus subcordatus Small,,,
+515,VAPA4,CYVA3,Cyanococcus vacillans (Kalm ex Torr.) Rydb.,,,
+516,VAPA4,VAVAM,Vaccinium vacillans Kalm ex Torr. var. missouriense Ashe,,,
+517,VAPA4,VAVI3,Vaccinium viride Ashe,,,
+518,VAPA4,CYLI11,Cyanococcus liparis Small,,,
+519,VAPA4,CYPA16,Cyanococcus pallidus (Aiton) Small,,,
+520,VAST,POAS,Polycodium ashei Harbison,,,
+521,VAST,,Vaccinium stamineum L.,deerberry,Ericaceae,
+522,VAST,POST8,Polycodium stamineum (L.) Greene,,,
+523,VAST,VAME3,Vaccinium melanocarpum (C. Mohr) C. Mohr ex Kearney,,,
+524,VAST,VASTC,Vaccinium stamineum L. var. candicans (Small) C. Mohr,,,
+525,VAST,POFL8,Polycodium floridanum (Nutt.) Greene,,,
+526,VAST,VASTI,Vaccinium stamineum L. var. interius (Ashe) Palmer & Steyerm.,,,
+527,VAST,POCA35,Polycodium candicans Small,,,
+528,VAST,POLE10,Polycodium leptosepalum Small,,,
+529,VAST,VACA7,Vaccinium caesium Greene,,,
+530,VAST,VASTM8,Vaccinium stamineum L. var. melanocarpum C. Mohr,,,
+531,VAST,PODE5,Polycodium depressum Small,,,
+532,VAST,VANE,Vaccinium neglectum (Small) Fernald,,,
+533,VAST,PONE12,Polycodium neglectum Small,,,
+534,VAST,VASTN,Vaccinium stamineum L. var. neglectum (Small) Deam,,,
+535,VAST,POME5,Polycodium melanocarpum (C. Mohr) Small,,,
+536,VAST,POMA31,Polycodium macilentum Small,,,
+537,VIAC,VIACA,Viburnum acerifolium L. var. acerifolium,,,
+538,VIAC,VIDE4,Viburnum densiflorum Chapm.,,,
+539,VIAC,VIACG,Viburnum acerifolium L. var. glabrescens Rehder,,,
+540,VIAC,VIACD,Viburnum acerifolium L. var. densiflorum (Chapm.) McAtee,,,
+541,VIAC,,Viburnum acerifolium L.,mapleleaf viburnum,Caprifoliaceae,woodland
+542,VIAC,VIACO,Viburnum acerifolium L. var. ovatum (Rehder) McAtee,,,
+543,VIAE,,Vitis aestivalis Michx.,summer grape,Vitaceae,
+544,VIBUR,,Viburnum L.,viburnum,Caprifoliaceae,woodland
+545,VICI2,,Vitis cinerea (Engelm.) Engelm. ex Millard,graybark grape,Vitaceae,
+546,VILA,VILAS,Viburnum lantana L. var. sphaerocarpum A. Gray ex Fernald,,,
+547,VILA,,Viburnum lantana L.,wayfaringtree,Caprifoliaceae,woodland
+548,VILA11,VIAL3,Viburnum alnifolium Marshall,,,
+549,VILA11,VIGR8,Viburnum grandifolium Aiton,,,
+550,VILA11,,Viburnum lantanoides Michx.,hobblebush,Caprifoliaceae,woodland
+551,VINU,,Viburnum nudum L.,possumhaw,Caprifoliaceae,woodland
+552,VIPR,VIPRB,Viburnum prunifolium L. var. bushii (Ashe) Palmer & Steyerm.,,,
+553,VIPR,VIPRG,Viburnum prunifolium L. var. globosum Nash,,,
+554,VIPR,,Viburnum prunifolium L.,blackhaw,Caprifoliaceae,woodland
+555,VIPR,VIBU,Viburnum bushii Ashe,,,
+556,VIRO2,,Viola rotundifolia Michx.,roundleaf yellow violet,Violaceae,
+557,VIRO3,MURO,Muscadinia rotundifolia (Michx.) Small,,,
+558,VIRO3,,Vitis rotundifolia Michx.,muscadine,Vitaceae,
+559,VITIS,,Vitis L.,grape,Vitaceae,
+560,VIVU,VICO3,Vitis cordifolia Michx.,,,
+561,VIVU,,Vitis vulpina L.,frost grape,Vitaceae,
+562,VIVU,VICOS,Vitis cordifolia Michx. var. sempervirens Munson,,,
+563,VIVU,VICOF,Vitis cordifolia Michx. var. foetida Engelm.,,,
+564,VIVU,VIIL,Vitis illex L.H. Bailey,,,
+565,WISTE,,Wisteria Nutt.,wisteria,Fabaceae,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
