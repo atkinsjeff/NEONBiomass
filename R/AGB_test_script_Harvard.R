@@ -1,5 +1,9 @@
-#### FOR BRANDON
-# NEON data cleaning scripts
+#### BIOMASS Calculaions from NEON data for Harvard as example using Jenkins et al. 2003
+# Jenkins, J. C., Chojnacky, D. C., Heath, L. S., & Birdsey, R. A. (2003).
+# National-scale biomass estimators for United States tree species. 
+# Forest science, 49(1), 12-35.
+
+# packages
 require(plyr)
 require(dplyr)
 require(tidyverse)
@@ -58,108 +62,33 @@ df <- merge(df, jenkins_plus, by = "taxonID", all.x = TRUE)
 
 
 ###########
-# biomass
+# biomass should be in kg i think. this comes from jennifer jenkins 2003 paper
 
 df$biomass <- exp(df$beta_one + (df$beta_two * log(df$stemDiameter)))
 
 
-# 
-# #### MLBS
-# df3.mlbs$b2015 <- exp(df3.mlbs$beta_one + (df3.mlbs$beta_two * log(df3.mlbs$dbh.15)))
-# df3.mlbs$b2017 <- exp(df3.mlbs$beta_one + (df3.mlbs$beta_two * log(df3.mlbs$dbh17)))
-# df3.mlbs$growth <- df3.mlbs$b2017 - df3.mlbs$b2015
-# 
-# # gotta half it
-# df3.mlbs$growth <- df3.mlbs$growth / 2
-# 
-# 
-# #######################################
-# # remove negatives
-# 
-# df3$growth[df3$growth < 0] <- 0
-# df3.mlbs$growth[df3.mlbs$growth < 0] <- 0
-# 
-# # get plot sum
-# df3 %>% 
-#   group_by(plotid) %>%
-#   dplyr::summarise(npp = sum(growth, na.rm = TRUE)) -> plot.npp
-# 
-# ####MLBS
-# df3.mlbs %>%
-#   group_by(plotid) %>%
-#   dplyr::summarise(npp = sum(growth,na.rm = TRUE)) -> plot.npp.mlbs
-# 
-# plot.npp <- rbind(plot.npp, plot.npp.mlbs)
-# 
-# plot.npp <- data.frame(plot.npp)
-# 
-# head(plot.npp)
-# 
+
+
+
+
+###### IMPORTANT
+###### when you get to npp you have to account for the neon plot design
+###### if you want to get normalized npp. neon does a 40 x 40 m plot design
+###### but only does two 20 x 20 m quadrats of that plot. so i think these are right 
+###### at the "plot" level which for DBH msmts of trees is 800 m^2, not the full
+###### 1600. 
+
 # # change to per hectare
 # plot.npp$npp <- plot.npp$npp * 12.5
 # 
 # # change to Mg per hectare
 # plot.npp$npp <- plot.npp$npp * 0.001
 # 
-# 
-# 
-# ### bring in CSC
-# neon.csc <- read.csv("./data/laserquest_pcl_transects_for_neon_2018.csv")
-# neon.csc %>% 
-#   group_by(plotid, siteid) %>%
-#   summarize_all(funs(mean)) -> neon.csc2
-# 
-# neon.csc2 <-data.frame(neon.csc2)
-# 
-# 
-# 
-# # colnames(neon.csc2)[colnames(neon.csc2) == "siteID"] <- "siteid"
-# # colnames(neon.csc2)[colnames(neon.csc2) == "plotID"] <- "plotid"
-# 
-# 
-# # #isolate rugosity
-# # neon.csc2 %>%
-# #   group_by(plotid, siteid) %>%
-# #   summarize(rugosity = mean(rugosity), moch = mean(mean.max.ht)) -> plot.rc2
-# # 
-# # neon.csc2 %>%
-# #   group_by(plotid, siteid) %>%
-# #   summarize_all(mean)-> plot.csc
-# 
-# # plot.csc <- data.frame(plot.csc)
-# plot.csc <- neon.csc2
-# 
-# require(stringi)
-# 
-# #fix zeros
-# stri_sub(plot.csc$plotid, 6, 5) <- 0
-# stri_sub(plot.csc2$plotid, 6, 5) <- 0
-# 
-# 
-# #combine
-# big.boi <- merge(plot.npp, plot.csc)
-# 
-# #filter out zeros
-# big.boi %>%
-#   filter(npp > 0) -> big.boi
-# 
-# ggplot(big.boi, aes(x = rugosity_mean, y = npp))+
-#   geom_point(aes(color=siteid), size = 4)+
-#   geom_point(shape = 1, size = 4, color = "black")+
-#   ylab("Wood NPP (Mg per Ha)")+
-#   xlab("Canopy Rugosity (m)")+
-#   theme_classic()+
-#   stat_smooth(method = "lm")
-# 
-# lm.rc <- lm(npp ~ rugosity_mean, data = big.boi)
-# lm.rump <- lm(npp ~ rumple_mean, data = big.boi)
-# lm.mst <- lm(npp ~ mean.std_mean, data = big.boi)
-# 
-# #### correlation matrix
-# x <- big.boi[c(2, 6:24, 26:34)]
-# 
-# m <- cor(x)
-# corrplot(m)
+
+
+
+
+### old code, some will be useful ####
 # #######
 # 
 # 
